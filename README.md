@@ -1,26 +1,27 @@
-# TEMPLATE-project-repository
-1. Clone/Download or simply Fork this repository to kickstart documenting your Science Hack Day PDX 2017 project
-- Once you have made your copy or fork, copy the address. It should look like this: https://github.com/yourGitHubName/TEMPLATE-project-repository 
-- [Here](https://github.com/daniellecrobinson/TEMPLATE-project-repository) is my fork of the repo if you want to check that out, note in the top left it says "forked from" and then the original location. 
-- Once you have Forked it, you can edit the text in the files to add documentation about your project. But first...
+# solar-bike-project-repository
 
-2. We've all got issues...[Click here to create an Issue](https://github.com/ScienceHackDayPDX/Science-Hack-Day-PDX-2017/issues/new) in the [Science Hack Day](https://github.com/ScienceHackDayPDX/Science-Hack-Day-PDX-2017) repository, and fill out the form to link us to your project. 
-
-3. Write a README.md document that describes your project. 
 - What did you do?
+
+Prototyped a solar powered bike light and installed it on my bike.
+
 - What equipment, tools, software, and/or hardware did you use?
+
+  - 18650 3.7v Lithium Ion Battery Cell (Harvested from an old HP Laptop Battery)
+  - [XCSource TP4056 breakout board](https://www.amazon.com/XCSOURCE-Lithium-Battery-Charger-TE585/dp/B01LZSC7I8/ref=sr_1_4?ie=UTF8&qid=1505237169&sr=8-4&keywords=tp4056) (Lithium battery charger/overcharge/discharge controller)
+  - [18650 Clip Holder Box Case with Wire Lead](https://www.amazon.com/Kangnice-18650-Rechargeable-Battery-Holder/dp/B071VM9648/ref=sr_1_1?s=automotive&ie=UTF8&qid=1505237219&sr=1-1&keywords=18650+holder)
+  - Acrylic (Cut with laser cutter)
+  - Hex driven nuts/bolts/washer hardware for acrylic (holes drilled with drill bit)
+  - Hot glue (Need something stronger though)
+  - [Coromose Retro Bicycle Bike](https://www.amazon.com/gp/product/B00T9M2JGI/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+  - Old USB Cable
+
 - Who is this project for?
+
+Any electronics beginners who want to make their own bike light
+
 - Can others contribute to your project?
-- Remember the confetti cannon - it's so sad when you find a confetti cannon but no one knows how to use it. Tradegies like these can be avoided by writing great documentation as you go!
 
-4. Don't be shy about sharing your code, project plan, or designs! Open Source is all about colaboration. Nothing is perfect, and that's ok! [Done is better than perfect](https://twitter.com/lettershoppe/status/897213248260460544), so get it up on GitHub! Your code lives in the repository along with these text documents.
+Yes please let me know how I can improve the design and components!
 
-5. Link out to a [CONTRIBUTING.md](https://github.com/ScienceHackDayPDX/TEMPLATE-project-repository/blob/master/CONTRIBUTING.md) guide that will show people how they can help. 
-
-6. If your project is going to involve people, get everyone on the same page with a [CODEOFCONDUCT.md](https://github.com/ScienceHackDayPDX/TEMPLATE-project-repository/blob/master/CODE_OF_CONDUCT.md).
-
-7. Is this just the beginning for your project? Write a [ROADMAP.md](https://github.com/ScienceHackDayPDX/TEMPLATE-project-repository/blob/master/ROADMAP.md) to let contributors know where the project is going!
-
-
-
-
+![](IMG_1877.JPG)
+![](IMG_1888.JPG)
